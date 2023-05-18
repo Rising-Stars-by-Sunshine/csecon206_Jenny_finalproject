@@ -85,6 +85,7 @@ https://github.com/Rising-Stars-by-Sunshine/csecon206_Jenny_finalproject/blob/20
 
 ### More about the Author
 - headshot
+- 
 ![1683779845881](https://github.com/Rising-Stars-by-Sunshine/csecon206_Jenny_finalproject/assets/125801773/01cd4b4d-d9c2-4602-b125-f2f7ce18d39f)
 
 - self-introduction
@@ -124,5 +125,47 @@ Bohnet, Iris, and Richard Zeckhauser. 2004. ‘Trust, Risk and Betrayal’. Jour
   year={2022},
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
+
+@article{cesarini2008heritability,
+  title={Heritability of Cooperative Behavior in the Trust Game},
+  author={Cesarini, David and Dawes, Christopher T. and Fowler, James H. and Johannesson, Magnus and Lichtenstein, Paul and Wallace, Bj{\"o}rn},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={105},
+  number={10},
+  pages={3721--3726},
+  year={2008},
+  doi={10.1073/pnas.0710069105},
+}
+
+@article{ashraf2003trust,
+  title={Is Trust a Bad Investment?},
+  author={Ashraf, Nava and Bohnet, Iris and Piankov, Nikita},
+  journal={Working Paper Series},
+  note={Working Paper Series, , November},
+  year={2003},
+}
+
+@article{stiglitz1982self,
+  title={Self-Selection and Pareto Efficient Taxation},
+  author={Stiglitz, Joseph E.},
+  journal={Journal of Public Economics},
+  volume={17},
+  number={2},
+  pages={213--240},
+  year={1982},
+  doi={10.1016/0047-2727(82)90020-2},
+}
+
+@article{bohnet2004trust,
+  title={Trust, Risk and Betrayal},
+  author={Bohnet, Iris and Zeckhauser, Richard},
+  journal={Journal of Economic Behavior \& Organization},
+  volume={55},
+  number={4},
+  pages={467--484},
+  year={2004},
+  doi={10.1016/j.jebo.2003.11.004},
+}
+
 ```
 
