@@ -5,6 +5,18 @@
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
 [notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+
+- **Improvement of PS1 and PS2**
+- *For PS1*
+- added in-text citations and references
+- read Pareto Efficiency reltated articles and improved the solution concept and strategies
+- 
+- described oTree code part
+- polished the writing of the project
+
+- *For PS2*
+- provided a normal form and matrix game, and it's evaluation
+- corrected the format of Overleaf and reupdated
 - **Project Summary**: 
   - **Project Summary**
   - In the trust game, player A and player B have the choices of "Trust" or "Betray", and they get different results of payoff accordingly. Nash Equilibrium can be achieved when both of players adopt strategies that maximize their own expected interest. However, in the real-world practice, players tend to consider more external factors, especially the risk in trading-off. Thus, Nash Equilibrium is not a comprehensive way to analyze the outcome and potential strategies of players. This project will further analyze the behaviors of players with the sense of risk aversion in the trust game.
