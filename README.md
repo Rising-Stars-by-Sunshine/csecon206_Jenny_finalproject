@@ -61,6 +61,7 @@ In real-life applications, this game can help explain investment choices, and ri
 
 ### Code
 - oTree Experimental Code 
+https://github.com/Rising-Stars-by-Sunshine/csecon206_Jenny_finalproject/blob/20626d8f20a762434409325fd7de56fed4963ee4/code/final_project_jenny.ipynb
 
 ### Spotlight
 - Posters
