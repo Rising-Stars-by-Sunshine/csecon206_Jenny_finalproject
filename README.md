@@ -1,4 +1,6 @@
 # # Title: Trust Game with Risk
+## Overleaf Link
+https://www.overleaf.com/read/wqwpjwcgrmcp
 ## Project information
 - **Author**: Ni Zheng, Computational Design/Social Policy, 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -35,7 +37,7 @@ Players may use risk management strategies to mitigate potential losses or maxim
 - **Application Scenario**
   - **Game Environment**
   - The game involves two players facing an investment and payoff problem, with A making investment decisions and generating profits or losses, and B making decisions regarding the allocation of the payoff.
-The two anonymous collaborators are situated within an investment environment, where one person, acting as the sender, possesses a certain amount of funds and must decide how much money to invest. The investment amount generates profits or losses according to certain rules, and it is the responder, the other person in the interaction, who decides how to allocate the resulting gains or losses between the sender and responder. 
+The two anonymous collaborators are situated within an investment environment, where one person, acting as the sender, possesses a certain amount of funds and must decide how much money to invest. The investment amount generates profits or losses according to certain rules, and it is the responder, the other person in the interaction, who decides how to allocate the resulting gains or losses between the sender and responder (Cesarini et al. 2008). 
 Through this process, the sender's final reward is the remaining amount after deducting the investment amount from the initial funds, plus the portion allocated by the responder from the investment outcome. The responder's final reward is the portion of the investment outcome allocated to themselves. This game delineates a scenario where returns are contingent on investment and involves the element of risk.
 
 - **Methodology**
