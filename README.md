@@ -10,7 +10,6 @@
 - *For PS1*
 - added in-text citations and references
 - read Pareto Efficiency reltated articles and improved the solution concept and strategies
-- 
 - described oTree code part
 - polished the writing of the project
 
@@ -67,17 +66,30 @@ In real-life applications, this game can help explain investment choices, and ri
 - Posters
 - ![Trust Game with Risk](https://github.com/Rising-Stars-by-Sunshine/csecon206_Jenny_finalproject/assets/125801773/161b5a07-e84e-40c9-a250-189d293cb7b1)
 - Slides&Presentations
-- Please check files uploaded.
+  Please check files uploaded.
 - Review articles
-- Media appearance
+  The paper "Trust, risk and betrayal" by Iris Bohnet and Richard Zeckhauser explores the decision-making process involved in trusting strangers in one-shot interactions. The authors investigate whether trusting someone is equivalent to taking a risky bet or if it entails an additional risk premium to account for the potential costs of betrayal. They compare a binary-choice Trust game with a structurally identical Risky Dictator game, both offering different outcomes. The researchers elicit individuals' minimum acceptable probabilities (MAPs) of receiving a good outcome in the Trust game, where they would prefer to take the gamble rather than a sure payoff.
+  
+  The paper acknowledges that the risk preferences measured within the context of the Trust game might be influenced by expectations of trustworthiness and the involvement of another person in determining the outcome. To address these concerns, the authors use a risky-choice task unrelated to trust decisions as a basis for comparison. They also introduce a third treatment, the Risky Dictator game, to replicate the element of payoffs going to two players without the trust component.
+
+- My innovation and inspiration
+
+  For the expansion of Analysis, the previous study focused on analyzing trust behavior based on factors such as gender, culture, age, and repetition of games, my project goes beyond by examining the influence of risk on players' behaviors and strategies. By considering risk aversion, I aim to provide a more comprehensive understanding of decision-making strategy in trust games.
+
+  The traditional Nash Equilibrium is a stable strategy where players have no incentive to unilaterally deviate. In my project, I introduce a new solution concept that incorporates risk. Instead of solely focusing on stability, my concept analyzes how risk preferences shape players' behaviors and strategies.
+
+  In terms of the research questions design, my project explores the importance of considering the influence of risk on players' behaviors or strategies in the trust game, which highlights the novel perspective the study by emphasizing the impact of risk aversion on decision-making. Additionally, I investigate the workings of risk in the trust game, including how individuals with different risk attitudes approach trust and investment scenarios.
+
+  For Methodology, my project introduces a Trust Game with Risk based on three assumptions. By incorporating uncertainty from the responder's allocation behavior, uncertain investment results, and their combination, I create different risk scenarios. This methodology allows for a nuanced exploration of risk preferences, risk-taking behavior, and decision-making strategies in the context of trust games.
 
 ### More about the Author
 - headshot
+![1683779845881](https://github.com/Rising-Stars-by-Sunshine/csecon206_Jenny_finalproject/assets/125801773/01cd4b4d-d9c2-4602-b125-f2f7ce18d39f)
+
 - self-introduction
+Hi, I am Ni(Jenny) Zheng from Shanghai. My intended major is Computational Design with track in Social Policy. In the future, I'd like to dig deeper into computational social science (economics/environmental science) and do some quantitative research.
+
 - Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
   - **Intellectual growth:** Through my in-class projects, I gained valuable insights into the intersection of economics and computer science, which expedited the Nash equilibrium solutions and outcomes for various games. This interdisciplinary approach empowered me to employ more intricate game models.
 
 By incorporating computer science into economics, I realized that Nash equilibrium has limitations in analyzing real-world situations. Shifting the focus away from the traditional rational economic man theory and single-round games, I discovered alternative solutions and add risk to the trust game.
@@ -91,6 +103,14 @@ By incorporating computer science into economics, I realized that Nash equilibri
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+
+Cesarini, David, Christopher T. Dawes, James H. Fowler, Magnus Johannesson, Paul Lichtenstein, and Björn Wallace. 2008. ‘Heritability of Cooperative Behavior in the Trust Game’. Proceedings of the National Academy of Sciences 105 (10): 3721–26. https://doi.org/10.1073/pnas.0710069105.
+
+Ashraf, Nava, Iris Bohnet, and Nikita Piankov. 2003. ‘Is Trust a Bad Investment?’ Working Paper Series, Working Paper Series, , November. https://ideas.repec.org//p/ecl/harjfk/rwp03-047.html.
+
+Stiglitz, Joseph E. 1982. ‘Self-Selection and Pareto Efficient Taxation’. Journal of Public Economics 17 (2): 213–40. https://doi.org/10.1016/0047-2727(82)90020-2.
+
+Bohnet, Iris, and Richard Zeckhauser. 2004. ‘Trust, Risk and Betrayal’. Journal of Economic Behavior & Organization 55 (4): 467–84. https://doi.org/10.1016/j.jebo.2003.11.004.
 
 ```
 @article{levin2022bridging,
