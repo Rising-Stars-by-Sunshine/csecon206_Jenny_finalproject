@@ -53,9 +53,9 @@ In real-life applications, this game can help explain investment choices, and ri
 
 ### Spotlight
 - Posters
-- Figures
-- Slides
-- Presentations
+- ![Trust Game with Risk](https://github.com/Rising-Stars-by-Sunshine/csecon206_Jenny_finalproject/assets/125801773/161b5a07-e84e-40c9-a250-189d293cb7b1)
+- Slides&Presentations
+- Please check files uploaded.
 - Review articles
 - Media appearance
 
@@ -66,7 +66,14 @@ In real-life applications, this game can help explain investment choices, and ri
   - intellectual growth
   - professional growth
   - living a purposeful life
+  - **Intellectual growth:** Through my in-class projects, I gained valuable insights into the intersection of economics and computer science, which expedited the Nash equilibrium solutions and outcomes for various games. This interdisciplinary approach empowered me to employ more intricate game models.
 
+By incorporating computer science into economics, I realized that Nash equilibrium has limitations in analyzing real-world situations. Shifting the focus away from the traditional rational economic man theory and single-round games, I discovered alternative solutions and add risk to the trust game.
+
+  - **Professional growth:** Throughout my research, I honed my skills in using game theory tools related to SPNE and other economics-related applications, while also exploring theories from computer science and social science. This interdisciplinary approach revealed gaps in existing theories and enabled me to propose novel solutions.
+
+  - **Living a purposeful life:** I have learned a lot about how to propose an idea and do a research based on previous studies. It's a meaningful way for me to learn professional research methods, which is very helpful for my future academic career.
+  
 ### References
 
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
